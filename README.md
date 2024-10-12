@@ -25,8 +25,9 @@ Add a new employee with salary details.
 Search, update, or delete employee records.
 View the database records for real-time updates.
 <h1>preview</h1>
-<img src="">
-<img src="">
+<img src="src/empmngsys/emp1.png">
+<img src="src/empmngsys/emp2.png">
+<img src="src/empmngsys/emp3.png">
 <h1>Author</h1>
 <h2>Vanshika Jain</h2>
 <li><a href="https://github.com/Vanshika1402jain"><b>Github</b></a><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="30"></li>
